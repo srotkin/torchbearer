@@ -87,8 +87,8 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
-  "url": "https://github.com/lupinelegend/torchbearer",
-  "manifest": "https://raw.githubusercontent.com/lupinelegend/torchbearer/master/system.json",
-  "download": "https://github.com/lupinelegend/torchbearer/archive/master.zip",
+  "url": "https://github.com/srotkin/torchbearer",
+  "manifest": "https://raw.githubusercontent.com/srotkin/torchbearer/master/system.json",
+  "download": "https://github.com/srotkin/torchbearer/archive/master.zip",
   "license": "LICENSE.txt"
 }
