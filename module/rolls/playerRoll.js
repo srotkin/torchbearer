@@ -235,6 +235,8 @@ export class PlayerRoll {
         } else {
             passFail = 'No Test';
         }
+		
+		passFail='Do you see me??';
 
         renderTemplate('systems/torchbearer/templates/roll-template.html', {
             title: header,
