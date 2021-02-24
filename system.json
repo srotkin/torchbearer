@@ -2,7 +2,7 @@
   "name": "torchbearer_seth",
   "title": "Torchbearer Seth",
   "description": "The Torchbearer system for FoundryVTT!",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "minimumCoreVersion": "0.5.5",
   "compatibleCoreVersion": "0.6.0",
   "templateVersion": 2,
